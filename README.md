@@ -24,6 +24,8 @@ CatPhoto is a simple, beginner-friendly HTML project that showcases a variety of
 
   
 **Preview:**
+
+
 ![image](https://github.com/user-attachments/assets/7fee4140-8ad3-475e-b713-96b762d30f83)
 
 
