@@ -1,4 +1,4 @@
-#Cat Photo Site
+# Cat Photo Site
 
 **CatPhoto Site:**
 CatPhoto is a simple, beginner-friendly HTML project that showcases a variety of interactive features centered around cats. This project is an excellent example of basic web development skills, combining semantic HTML, accessible design, and interactive form elements.
